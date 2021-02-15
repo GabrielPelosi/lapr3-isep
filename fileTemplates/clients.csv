@@ -1,0 +1,11 @@
+#lines starting with # should be ignored
+#Column description
+#latitude, longitude are given in decimal degrees e.g. 41.152712, -8.609297, 41.145883, -8.610680
+#elevation is given in metres (m) with no decimal places e.g. 121. When not given, consider 0
+#poi description is optional and represents the description for the point of interest e.g. "Hotel Well"
+#latitude;longitude;elevation;street;name;email;pass;nif
+41.14063;-8.61118;25;Cais da Ribeira;gabriel;gabriel@gmail.com;123;995667996
+41.14582;-8.61398;87;Clerigos;josé;josé123@gmail.com;123;995669996
+41.14723;-8.60657;91;Majestic;joão;joão123@gmail.com;123;995677996
+41.14871;-8.60746;87;Bolhao;alberto;alberto123@gmail.com;123;925667996
+41.14331;-8.60914;82;Sé;juan;juan123@gmail.com;123;695667996

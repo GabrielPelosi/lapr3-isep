@@ -1,0 +1,15 @@
+#lines starting with # should be ignored
+#Column description
+#escooter description - a descriptive reference for the escooter e.g. ePT050
+#weight - the escooter mass in Kg with no decimal places e.g. 12
+#park latitude, park longitude - when an escooter is parked, the park latitude and longitude are given in decimal degrees e.g. 41.152712, -8.609297
+#max battery capacity - the battery max capacity in kWh e.g. 1
+#actual battery capacity - the percentage with no decimal places of the battery capacity e.g. 75 for a battery with 0.75kWh charge
+#aerodynamic coefficient - escooter aerodynamic coefficient with 2 decimal places e.g. 1.10
+#frontal area - escooter frontal area in m^2 with 1 decimal place e.g. 0.3
+#motor - scooter motor in Wh e.g. 250Wh
+#pharmacyId;weight;max battery capacity;actual battery capacity;aerodynamic coefficient;frontal area
+1;25;100;45;0.3;1.15
+1;30;100;95;0.3;1.15
+1;10;100;55;0.3;1.15
+1;23;100;35;0.3;1.15
